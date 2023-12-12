@@ -3,6 +3,6 @@ primo-explore/tmp/
 
 !primo-explore/custom/.gitignore
 !primo-explore/tmp/.gitignore
-
+.DS_Store
 .idea/
 package-lock.json
